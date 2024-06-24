@@ -165,6 +165,7 @@
   }
   .participants {
     width: fit-content;
+    color: black;
   }
   .table {
     flex-direction: column;
@@ -174,29 +175,6 @@
   }
   .table h2 {
     font-size: 1.5rem;
-  }
-  .grid {
-    grid-template-columns: 1fr;
-    margin-bottom: 120px;
-    max-width: 320px;
-    text-align: center;
-  }
-
-  .card {
-    padding: 1rem 2.5rem;
-  }
-
-  .card h2 {
-    margin-bottom: 0.5rem;
-  }
-
-  .center {
-    padding: 8rem 0 6rem;
-  }
-
-  .center::before {
-    transform: none;
-    height: 300px;
   }
 
   .description {

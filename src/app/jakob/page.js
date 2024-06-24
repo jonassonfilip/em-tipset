@@ -5,7 +5,7 @@ import styles from '../page.module.css';
 export default function Page() {
   return (
     <div className={styles.coupon}>
-      <h1>Jakub Gometz</h1>
+      <h1>Jakob Gometz</h1>
       <Image
         src={coupon}
         width={600}
