@@ -46,7 +46,7 @@ export default function Home() {
             ))}
           </div>
           <div className={styles.table}>
-            <h2>Tabell 23/6:</h2>
+            <h2>Tabell 24/6:</h2>
             <div className={styles.tableRows}>
               <div className={styles.tableRow}>
                 <ul>
