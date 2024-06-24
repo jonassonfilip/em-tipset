@@ -8,7 +8,11 @@
   min-height: 100vh;
   font-family: 'Nunito';
 }
-
+.main {
+  color: beige;
+  height: 100%;
+  background-size: 400% 400%;
+}
 .container {
   display: flex;
   flex-direction: row;

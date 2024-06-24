@@ -5,12 +5,11 @@
     'Roboto Mono', 'Oxygen Mono', 'Ubuntu Monospace', 'Source Code Pro',
     'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace;
 
-  background: rgb(5, 98, 34);
   background: linear-gradient(
-    90deg,
-    rgba(5, 98, 34, 0.590095413165266) 0%,
-    rgba(10, 129, 65, 0.6965379901960784) 65%,
-    rgba(23, 136, 100, 0.6293110994397759) 100%
+    -45deg,
+    rgba(255, 255, 89, 0.59) 0%,
+    rgba(235, 47, 0, 0.697) 65%,
+    rgba(35, 10, 2, 0.629) 100%
   );
 
   --primary-glow: conic-gradient(
