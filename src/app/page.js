@@ -1,5 +1,4 @@
 import React from 'react';
-import Image from 'next/image';
 import Link from 'next/link';
 import styles from './page.module.css';
 
@@ -63,6 +62,7 @@ export default function Home() {
                 <li>Peter</li>
 
                 <h4>95 poäng:</h4>
+                <li>Anders</li>
                 <li>Filip</li>
                 <li>Therese</li>
               </ul>
@@ -75,7 +75,6 @@ export default function Home() {
                 <li>Victor</li>
 
                 <h4>85 poäng:</h4>
-                <li>Anders</li>
                 <li>Elias</li>
                 <li>Henrik</li>
                 <li>Ludwig P</li>
