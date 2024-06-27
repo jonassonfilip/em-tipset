@@ -46,61 +46,63 @@ export default function Home() {
             ))}
           </div>
           <div className={styles.table}>
-            <h2>Tabell 24/6:</h2>
+            <h2>Tabell 28/6:</h2>
             <div className={styles.tableRows}>
               <div className={styles.tableRow}>
                 <ul>
-                  <h4>145 poäng:</h4>
+                  <h4>215 poäng:</h4>
                   <li>Joakim</li>
 
-                  <h4>130 poäng:</h4>
-                  <li>Jakob</li>
-
-                  <h4>125 poäng:</h4>
-                  <li>Anncatrine</li>
+                  <h4>205 poäng:</h4>
                   <li>Linus</li>
 
-                  <h4>120 poäng:</h4>
-                  <li>Johan</li>
+                  <h4>200 poäng:</h4>
+                  <li>Anncatrine</li>
+                  <li>Jakob</li>
+
+                  <h4>195 poäng:</h4>
                   <li>Peter</li>
                   <li>Therese</li>
+
+                  <h4>185 poäng:</h4>
+                  <li>Johan</li>
+                  <li>Ludwig P</li>
                 </ul>
               </div>
               <div className={styles.tableRow}>
                 <ul>
-                  <h4>115 poäng:</h4>
+                  <h4>180 poäng:</h4>
+                  <li>Elias</li>
+                  <li>Henrik</li>
                   <li>Robin</li>
 
-                  <h4>110 poäng:</h4>
-                  <li>Victor</li>
+                  <h4>175 poäng:</h4>
+                  <li>Basta</li>
+                  <li>Carolina</li>
 
-                  <h4>105 poäng:</h4>
-                  <li>Anders</li>
-                  <li>Elias</li>
+                  <h4>170 poäng:</h4>
                   <li>Filip</li>
-                  <li>Ludwig P</li>
+                  <li>Ludwig R</li>
 
-                  <h4>100 poäng:</h4>
-                  <li>Henrik</li>
-                  <li>Marcus</li>
+                  <h4>165 poäng:</h4>
+                  <li>Anders</li>
+
+                  <h4>160 poäng:</h4>
+                  <li>Victor</li>
                 </ul>
               </div>
               <div className={styles.tableRow}>
                 <ul>
-                  <h4>95 poäng:</h4>
-                  <li>Carolina</li>
-                  <li>Ludwig R</li>
+                  <h4>155 poäng:</h4>
+                  <li>Marcus</li>
 
-                  <h4>90 poäng:</h4>
-                  <li>Basta</li>
-
-                  <h4>85 poäng:</h4>
+                  <h4>150 poäng:</h4>
                   <li>Karl</li>
 
-                  <h4>80 poäng:</h4>
+                  <h4>140 poäng:</h4>
                   <li>Alessandro</li>
 
-                  <h4>75 poäng:</h4>
+                  <h4>135 poäng:</h4>
                   <li>Glenn</li>
                 </ul>
               </div>
