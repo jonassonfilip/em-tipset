@@ -50,59 +50,59 @@ export default function Home() {
             <div className={styles.tableRows}>
               <div className={styles.tableRow}>
                 <ul>
-                  <h4>215 poäng:</h4>
-                  <li>Joakim</li>
+                  <h4>270 poäng:</h4>
+                  <li>Anncatrine</li>
 
-                  <h4>205 poäng:</h4>
+                  <h4>265 poäng:</h4>
+                  <li>Joakim</li>
+                  <li>Johan</li>
                   <li>Linus</li>
 
-                  <h4>200 poäng:</h4>
-                  <li>Anncatrine</li>
+                  <h4>260 poäng:</h4>
                   <li>Jakob</li>
 
-                  <h4>195 poäng:</h4>
+                  <h4>255 poäng:</h4>
                   <li>Peter</li>
                   <li>Therese</li>
 
-                  <h4>185 poäng:</h4>
-                  <li>Johan</li>
+                  <h4>245 poäng:</h4>
                   <li>Ludwig P</li>
                 </ul>
               </div>
               <div className={styles.tableRow}>
                 <ul>
-                  <h4>180 poäng:</h4>
-                  <li>Elias</li>
+                  <h4>240 poäng:</h4>
                   <li>Henrik</li>
                   <li>Robin</li>
 
-                  <h4>175 poäng:</h4>
-                  <li>Basta</li>
-                  <li>Carolina</li>
-
-                  <h4>170 poäng:</h4>
+                  <h4>230 poäng:</h4>
+                  <li>Elias</li>
                   <li>Filip</li>
                   <li>Ludwig R</li>
 
-                  <h4>165 poäng:</h4>
-                  <li>Anders</li>
+                  <h4>225 poäng:</h4>
+                  <li>Carolina</li>
 
-                  <h4>160 poäng:</h4>
+                  <h4>220 poäng:</h4>
                   <li>Victor</li>
+
+                  <h4>215 poäng:</h4>
+                  <li>Anders</li>
+                  <li>Basta</li>
                 </ul>
               </div>
               <div className={styles.tableRow}>
                 <ul>
-                  <h4>155 poäng:</h4>
-                  <li>Marcus</li>
-
-                  <h4>150 poäng:</h4>
+                  <h4>210 poäng:</h4>
                   <li>Karl</li>
 
-                  <h4>140 poäng:</h4>
+                  <h4>205 poäng:</h4>
+                  <li>Marcus</li>
+
+                  <h4>190 poäng:</h4>
                   <li>Alessandro</li>
 
-                  <h4>135 poäng:</h4>
+                  <h4>185 poäng:</h4>
                   <li>Glenn</li>
                 </ul>
               </div>
