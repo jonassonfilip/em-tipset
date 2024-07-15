@@ -46,66 +46,78 @@ export default function Home() {
             ))}
           </div>
           <div className={styles.table}>
-            <h2>Tabellen inför finalen:</h2>
+            <h1>Slutresultat:</h1>
             <div className={styles.tableRows}>
               <div className={styles.tableRow}>
-                <ul>
-                  <h4>300 poäng:</h4>
-                  <li>Anncatrine</li>
+                <ul className={styles.prices}>
+                  <div className={styles.gold}>
+                    <h4>330 poäng och 3000 kr:</h4>
+                    <li>Anncatrine</li>
+                  </div>
 
-                  <h4>280 poäng:</h4>
-                  <li>Joakim</li>
-                  <li>Linus</li>
+                  <div className={styles.silver}>
+                    <h4>325 poäng och 600 kr:</h4>
+                    <li>Linus</li>
+                  </div>
+
+                  <div className={styles.bronze}>
+                    <h4>295 poäng och 400 kr:</h4>
+                    <li>Joakim</li>
+                  </div>
+
+                  <div className={styles.fourth}>
+                    <h4>290 poäng och 200 kr:</h4>
+                    <li>Jakob</li>
+                    <li>Johan</li>
+                  </div>
+                </ul>
+              </div>
+              <div className={styles.tableRow}>
+                <ul>
+                  <h4>285 poäng:</h4>
+                  <li>Peter</li>
+                  <li>Therese</li>
+
+                  <h4>275 poäng:</h4>
+                  <li>Basta</li>
+                  <li>Filip</li>
+                  <li>Ludwig R</li>
 
                   <h4>270 poäng:</h4>
-                  <li>Peter</li>
-
-                  <h4>260 poäng:</h4>
-                  <li>Jakob</li>
+                  <li>Henrik</li>
+                  <li>Robin</li>
                 </ul>
               </div>
               <div className={styles.tableRow}>
                 <ul>
                   <h4>255 poäng:</h4>
                   <li>Carolina</li>
-                  <li>Henrik</li>
-                  <li>Robin</li>
-                  <li>Therese</li>
+
+                  <h4>250 poäng:</h4>
+                  <li>Marcus</li>
 
                   <h4>245 poäng:</h4>
-                  <li>Basta</li>
-                  <li>Johan</li>
                   <li>Ludwig P</li>
-                  <li>Ludwig R</li>
-                </ul>
-              </div>
-              <div className={styles.tableRow}>
-                <ul>
-                  <h4>235 poäng:</h4>
-                  <li>Victor</li>
 
-                  <h4>230 poäng:</h4>
-                  <li>Elias</li>
-                  <li>Filip</li>
-
-                  <h4>225 poäng:</h4>
+                  <h4>240 poäng:</h4>
                   <li>Karl</li>
 
-                  <h4>220 poäng:</h4>
-                  <li>Marcus</li>
+                  <h4>235 poäng:</h4>
+                  <li>Victor</li>
                 </ul>
               </div>
 
               <div className={styles.tableRow}>
                 <ul>
+                  <h4>230 poäng:</h4>
+                  <li>Elias</li>
+                  <li>Glenn</li>
+
                   <h4>215 poäng:</h4>
                   <li>Anders</li>
 
                   <h4>205 poäng:</h4>
                   <li>Alessandro</li>
-
-                  <h4>200 poäng:</h4>
-                  <li>Glenn</li>
                 </ul>
               </div>
             </div>

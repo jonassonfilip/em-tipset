@@ -71,6 +71,21 @@
   list-style: none;
   padding-right: 2rem;
 }
+.prices {
+  font-size: 1.5rem;
+}
+.gold {
+  color: gold;
+}
+.silver {
+  color: silver;
+}
+.bronze {
+  color: rgb(255, 187, 119);
+}
+.fourth {
+  color: black;
+}
 @media (min-width: 769px) {
   .tableRows {
     display: flex;
@@ -178,7 +193,6 @@
   .table h2 {
     font-size: 1.5rem;
   }
-
   .description {
     font-size: 0.8rem;
     width: 100%;
